@@ -21,7 +21,7 @@
 ## 1.3	现有区块链面临的问题
 
 {% center %}
-<img src="./imgs/img1.png" align="center" alt="图 1 现有区块链面临的问题" />
+<img src="./imgs/1.png" align="center" alt="图 1 现有区块链面临的问题" />
 图 1 现有区块链面临的问题
 {% endcenter %}
 
