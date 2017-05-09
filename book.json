@@ -21,12 +21,7 @@
     },
     "plugins": [
         "block-align",
-        "mathjax",
+        "katex",
         "gtoc"
-    ],
-    "pluginsConfig": {
-        "mathjax":{
-            "forceSVG": false
-        }
-    }
+    ]
 }
