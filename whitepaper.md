@@ -1,7 +1,7 @@
 <div style="text-align:center">
 <h2>信链白皮书</h2>
 
-作者：黄立峰
+作者：黄立峰<br/>
 
 version 0.8.1
 </div>
