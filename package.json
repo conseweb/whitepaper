@@ -1,0 +1,34 @@
+{
+  "name": "xinlian-whitepaper",
+  "version": "0.8.1",
+  "description": "信链白皮书",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "deploy": "node_modules/.bin/gulp deploy",
+    "summary": "node_modules/.bin/book -i node_modules,_book,_out,_static sm",
+    "pdf": "/usr/local/bin/gitbook pdf . _out/xinlian-whitepaper.pdf",
+    "build": "/usr/local/bin/gitbook build . _static/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://conseweb.github.io/market-research"
+  },
+  "keywords": [
+    "bitcoin",
+    "blockchain"
+  ],
+  "author": "黄立峰",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://conseweb.github.io/market-research/issues"
+  },
+  "homepage": "http://conseweb.github.io/market-research#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gitbook-summary": "*",
+    "gulp": "^3.9.0",
+    "gulp-gh-pages": "^0.5.4"
+  }
+}

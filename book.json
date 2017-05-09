@@ -1,0 +1,25 @@
+{
+    "bookname": "信链白皮书",
+    "description": "信链区块链白皮书",
+    "language": "zh",
+    "keywords": [
+        "信链",
+        "bitcoin",
+        "conseweb",
+        "blockchain",
+        "区块链"
+    ],
+
+    "homepage": "http://conseweb.github.io/market-research",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/conseweb/market-research.git"
+    },
+    "bugs": {
+        "url": "https://github.com/conseweb/market-research/issues"
+    },
+    "plugins": [
+        "block-align"
+    ]
+}
