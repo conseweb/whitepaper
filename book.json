@@ -20,6 +20,8 @@
         "url": "https://github.com/conseweb/market-research/issues"
     },
     "plugins": [
-        "block-align"
+        "block-align",
+        "mathjax",
+        "gtoc"
     ]
 }
