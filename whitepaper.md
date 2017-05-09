@@ -28,7 +28,7 @@ version 0.8.1
 ## 1.3	现有区块链面临的问题
 
 <center>
-![图 1 现有区块链面临的问题](/Users/michael/workspace/whitepaper/imgs/img1.png)  
+<img src="http://192.168.5.112/xl/whitepaper/uploads/9580b2f447f858a600b531ff541f5fcd/img1.png"><br/>
 
 图 1 现有区块链面临的问题
 </center>
@@ -49,7 +49,7 @@ version 0.8.1
 从系统控制论的角度来说，比特币是一种非线性的复杂金融系统，其价格与用户量的关系是一种典型的正反馈关系，而正反馈只会导致系统不稳定，也就是说随着用户量的增长，其价格长期来看将会不断上涨，但是没有任何一种商品的价格能够长期维持在上涨通道中，这就导致中短期来看，比特币的价格将会不断的处于剧烈的波动当中，其价格曲线大概会是这样（价格波动过大）：
 
 <center>
-![图 2 比特币的价格走势](/Users/michael/workspace/whitepaper/imgs/img2.png)  
+<img src="http://192.168.5.112/xl/whitepaper/uploads/c58963f05723d1ff0dac621de4dd2063/img2.png"><br/>
 
 图 2 比特币的价格走势预测
 </center>
@@ -58,7 +58,7 @@ version 0.8.1
 而理想的价格走势应该如下：
 
 <center>
-![图 3 理想的价格趋势](/Users/michael/workspace/whitepaper/imgs/img3.png)  
+<img src="http://192.168.5.112/xl/whitepaper/uploads/f5f26c6d45694e11c8196f9c2376abef/img3.png"><br/>
 
 图 3 理想的价格趋势
 </center>
@@ -76,7 +76,7 @@ version 0.8.1
 下图可以很好的看出我们的云盘产品与传统云盘的区别：我们提供的是具有更高安全性、可删除、可迁移，具有数据使用知情权的云盘。
 
 <center>
-![图 4 传统云盘与信链云盘的比较](/Users/michael/workspace/whitepaper/imgs/img4.png)  
+<img src="http://192.168.5.112/xl/whitepaper/uploads/15dcc2a6eb866bd20b7b3fe6d3d5682b/img4.png"><br/>
 
 图 4 传统云盘与信链云盘的比较
 </center>
@@ -91,8 +91,7 @@ version 0.8.1
 下图是苹果应用商店最近三年的营业收入，而区块链之上可以构建更加丰富的各种互联网应用，可以说这里面蕴含的市场机会至少是几百亿甚至是千亿美金级别。
 
 <center>
-![图 5 苹果应用商店营收](/Users/michael/workspace/whitepaper/imgs/img5.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/16b7503712b695034449ab11d773d38d/img5.png"><br/>
 图 5 苹果应用商店营收
 </center>
 
@@ -116,8 +115,7 @@ version 0.8.1
 
 
 <center>
-![图 6 信链的优势](/Users/michael/workspace/whitepaper/imgs/img6.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/fc5af8d61ced1779e579f394a49b577f/img6.png"><br/>
 图 6 信链的优势
 </center>
 
@@ -127,8 +125,7 @@ version 0.8.1
 信链的网络节点可以是用户家里的个人电脑，可以是Aws、Azure、UCloud、阿里云等任何云计算服务提供商的主机，只需要安装信链的客户端，连上网络，就可以通过信链网络连接彼此，形成一个p2p网络。下图是信链的整体架构图：
 
 <center>
-![图 7 信链架构全景](/Users/michael/workspace/whitepaper/imgs/img7.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/e1991a71f83ac14f27a013e301543230/img7.png"><br/>
 图 7 信链架构全景
 </center>
 
@@ -136,8 +133,7 @@ version 0.8.1
 信链采用的是多链的架构，由一条核心链和多条侧链组成，下图中L0和L1层是完成系统主要功能的功能层。
 
 <center>
-![图 8 信链架构分层图](/Users/michael/workspace/whitepaper/imgs/img8.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/997d5829dfbac14345dd4b2441acb7b1/img8.png"><br/>
 图 8 信链架构分层图
 </center>
 
@@ -147,8 +143,7 @@ version 0.8.1
 2. 所有历史交易都可以被很方便的回溯，方便审计、校验；
 
 <center>
-![图 9 UTXO](/Users/michael/workspace/whitepaper/imgs/img9.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/e79f449e6aeba9f4ebed92266018bdff/img9.png"><br/>
 图 9 UTXO[1]
 </center>
 
@@ -160,8 +155,7 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 共识算法是区块链的核心算法或协议，我们有独创的PoD（Proof Of Data）共识算法。区块链网络从机器的角度来说，其三个基本构成要素分别是：算力、存储、带宽；PoW 算法本质上是对用户贡献的算力进行经济激励，而我们的算法是对用户贡献的存储和带宽进行经济激励。比特币是第一种把共识算法与经济激励相结合的成功应用，经济激励有助于维护整个网络的长期安全可靠稳定的运行、对整个比特币生态圈的良性循环具有不可替代的作用，而我们的算法只从激励的角度来说与PoW算法完全不一样，是一种全新的算法或协议。
 
 <center>
-![图 10 PoD与PoW的区别](/Users/michael/workspace/whitepaper/imgs/img10.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/65b9d5d570936aaac25f8dd47db19bc6/img10.png"><br/>
 图 10 PoD 与 PoW 的区别
 </center>
 
@@ -182,8 +176,7 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 这样用户的每个假名地址都能够很轻易的从用户的根私钥生成，而且很容易验证，但是却无法从假名地址反推出其对应的根私钥，也就无法与实名地址进行关联。
 
 <center>
-![图 11 分层确定性钱包地址方案](/Users/michael/workspace/whitepaper/imgs/img11.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/22277036291f3cd26cb25d7f4849de92/img11.png"><br/>
 图 11 分层确定性钱包地址方案[2]
 </center>
 
@@ -193,8 +186,7 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 采用该模型，其隐私性不会低于 ZCash 、达世币等专注于隐私保护的特殊币种，却具有更好的用户友好性。
 
 <center>
-![图 12 实名地址与假名地址的区别](/Users/michael/workspace/whitepaper/imgs/img12.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/e7af3affa4a568ccdcf924cfc790568b/img12.png"><br/>
 图 12 实名地址与假名地址的区别
 </center>
 
@@ -203,8 +195,7 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 因为同时支持实名账号和假名账号系统，信链得以实现高度隐私的保密交易，其流程如下：
 
 <center>
-![图 13 信链保密交易的流程](/Users/michael/workspace/whitepaper/imgs/img13.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/a7d2530157a78abf550d4e6d921be04f/img13.png"><br/>
 图 13 信链保密交易的流程
 </center>
 
@@ -214,8 +205,7 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 ## 3.2	信链的经济模型
 
 <center>
-![图 14 负反馈系统](/Users/michael/workspace/whitepaper/imgs/img14.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/10830c8b24d8debc277ea07780fd2bc7/img14.png"><br/>
 图 14 负反馈系统
 </center>
 
@@ -232,8 +222,7 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 
 
 <center>
-![图 15 信链股与有效用户量的关系](/Users/michael/workspace/whitepaper/imgs/img15.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/8c896e172c55181a2a0541e3a2d40b54/img15.png"><br/>
 图 15 信链股与有效用户量的关系
 </center>
 
@@ -242,8 +231,7 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 信链与比特币的产品功能对比图可以很清楚的看出信链在产品上已经大大超越了比特币。
 
 <center>
-![图 16 比特币与信链的比较](/Users/michael/workspace/whitepaper/imgs/img16.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/66074bc68f080c7b3490deb59ddd22bc/img16.png"><br/>
 图 16 比特币与信链的比较
 </center>
 
@@ -279,8 +267,7 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 **商业前景**：互联网广告是谷歌、百度最主要的收入来源，谷歌更可以说是世界上最大的互联网广告公司。2016年，中国网络广告年度市场规模为2769亿元，同比增长率为29.7%，略有放缓。但从整体发展来看，网络广告市场仍将保持较快的增长水平，预计在2019年将超过5000亿，2016-2019年的复合增长率仍将在25%以上。
 
 <center>
-![图 17 2011-2019年中国网络广告市场规模及预测](/Users/michael/workspace/whitepaper/imgs/img17.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/ebc1f4f9597ea7b4203e1b58872fa7b1/img17.png"><br/>
 图 17 2011-2019年中国网络广告市场规模及预测
 </center>
 
@@ -349,8 +336,7 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 以上两个因素同时起作用，而且是乘积效应；
 
 <center>
-![图 18 信链收益计算](/Users/michael/workspace/whitepaper/imgs/img18.png)  
-
+<img src="http://192.168.5.112/xl/whitepaper/uploads/1b974c9d76aeae14af3eba07eb200711/img18.png"><br/>
 图 18 信链收益计算
 </center>
 
@@ -375,6 +361,6 @@ L2层是上层应用配套的侧链，通常是由第三方开发商来注册建
 
 
 
-参考：
+## 6 参考信息
 1. [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#block-chain)
 2. [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
