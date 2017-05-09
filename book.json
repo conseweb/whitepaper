@@ -26,7 +26,7 @@
     ],
     "pluginsConfig": {
         "mathjax":{
-            "forceSVG": false
+            "forceSVG": true
         }
     }
 }
