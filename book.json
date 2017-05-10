@@ -22,6 +22,10 @@
     "plugins": [
         "block-align",
         "katex",
-        "gtoc"
+        "gtoc",
+        "splitter",
+        "-lunr", 
+        "-search", 
+        "search-plus"
     ]
 }
