@@ -1,7 +1,8 @@
 {
     "bookname": "信链白皮书",
     "description": "信链区块链白皮书",
-    "language": "zh",
+    "language": "zh-hans",
+    "direction": "rtl",
     "keywords": [
         "信链",
         "bitcoin",
@@ -9,6 +10,11 @@
         "blockchain",
         "区块链"
     ],
+    "links" : {
+        "sidebar" : {
+            "ICO页面" : "http://www.conseweb.com"
+        }
+    },
 
     "homepage": "http://conseweb.github.io/market-research",
     "license": "MIT",
@@ -27,5 +33,18 @@
         "-lunr", 
         "-search", 
         "search-plus"
-    ]
+    ],
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": true,
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        }
+    }
 }
