@@ -7,6 +7,9 @@
 * [Bitcoin Developer Guide](https://bitcoin.org/en/developer-guide#block-chain): https://bitcoin.org/en/developer-guide#block-chain
 * [BIP0032](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki): https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki
 * [控制论](https://zh.wikipedia.org/wiki/%E6%8E%A7%E5%88%B6%E7%90%86%E8%AE%BA)
+* [黑客攻击iCloud得手：多位女星不雅私照泄露](http://iphone.tgbus.com/news/class/201409/20140901110250.shtml)
+* [这位哥们不小心买到了《星际争霸》的源代码光盘，然后暴雪给他去了个电话……](https://zhuanlan.zhihu.com/p/26719067)
+
 
 
 
