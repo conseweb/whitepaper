@@ -2,7 +2,9 @@
     "bookname": "信链白皮书",
     "description": "信链区块链白皮书",
     "language": "zh-hans",
+    "output.name": "信链白皮书",
     "direction": "rtl",
+    "root": ".",
     "keywords": [
         "信链",
         "bitcoin",
@@ -28,7 +30,6 @@
     "plugins": [
         "block-align",
         "katex",
-        "gtoc",
         "splitter",
         "-lunr", 
         "-search", 
